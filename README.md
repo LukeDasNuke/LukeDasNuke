@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @LukeDasNuke
-- 👀 This is not my regular github account, see @freerangerstudios
+- 👀 This is not my regular github account, see (@freerangerstudios)[https://github.com/freerangerstudios]
